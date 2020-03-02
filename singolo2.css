@@ -152,6 +152,10 @@ section {
     margin-right: 4px;
 }
 
+.social-icons:hover{
+    cursor: pointer;
+}
+
 .section-team--divider {
     background-color: white;
     height: 5px;
