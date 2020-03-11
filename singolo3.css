@@ -105,6 +105,9 @@ input::placeholder {
     font-size: 12px;
     line-height: 23px;
     letter-spacing: -0.15px;
+    display: block;
+    text-decoration: none;
+    color: #f0d8d9; !important;
 }
 
 .contact-icon1 {
